@@ -21,11 +21,26 @@ The website features:
 
 ## 🎥 Demo
 
-Check out the live site here: [RedStore Live Demo](https://your-live-demo-link.com)
+Check out the live site here: ## 🎥 Demo
 
-## 🚀 Installation
-To run this project locally:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://your-live-demo-link.com)
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/redstore.git
+
+## 📖 Usage
+1.Homepage: Explore featured and latest products.
+
+2.Products Page: Filter and sort products.
+
+3.Product Details: Select size and add to cart.
+
+4.Cart Page: Review your selections and total price.
+
+5.Contact Page: Reach out via the contact form.
+
+## 🛠️ Technologies Used
+HTML5 — Structure of the website
+CSS3 — Styling and responsiveness
+JavaScript — Basic interactivity
+Google Fonts & Font Awesome — Icons and typography
+Google Maps API — Integrated map on Contact page
+
